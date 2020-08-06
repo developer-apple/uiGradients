@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+      "name": "allandom",
+      "colors": ["#cb204d", "#bc9e28", "#0376db"]
     }
 ]
